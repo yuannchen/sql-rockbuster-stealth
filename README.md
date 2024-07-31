@@ -10,5 +10,5 @@ In this project, I queried complex data using SQL on pgAdmin 4 to answer busines
 - Where are customers with a high l ifetime value based?
 - Do sales figures vary between geographic regions?
 
-## Data set & analysis
-I used a data set that contains information about Rockbuster’s film inventory, customers, and payments, among other things. Note that:
+## Data set
+I used a data set that contains information about Rockbuster’s film inventory, customers, and payments, among other things.
